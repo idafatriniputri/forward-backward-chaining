@@ -1,6 +1,10 @@
 # forward-backward-chaining
 Forward and Backward chaining in production system
 
+Nama : Ida Fatrini Putri
+NPM : 1184113
+Kelas : D4 TI 3A
+
 Analisis dari saya adalah sebagai berikut.
 
 Forward Chaining adalah sebuah metode untuk mencari kaidah ke depan yang bertujuan kesimpulan dengan memenuhi aturannya.
