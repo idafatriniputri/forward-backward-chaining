@@ -1,9 +1,9 @@
-# forward-backward-chaining
+# Tugas Sistem Pakar
 Forward and Backward chaining in production system
 
-Nama : Ida Fatrini Putri
-NPM : 1184113
-Kelas : D4 TI 3A
+Nama : Ida Fatrini Putri.
+NPM : 1184113.
+Kelas : D4 TI 3A.
 
 Analisis dari saya adalah sebagai berikut.
 
